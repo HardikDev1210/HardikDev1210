@@ -8,6 +8,9 @@
   </p>
 
   <p align="center">
+    <a href="https://hardikprajapati.co.in" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-hardikprajapati.co.in-4F46E5?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    </a>
     <a href="mailto:contact@hardikprajapati.co.in">
       <img src="https://img.shields.io/badge/Email-contact%40hardikprajapati.co.in-007ACC?style=flat-square&logo=mail.ru&logoColor=white" alt="Email"/>
     </a>
@@ -84,5 +87,5 @@
 ---
 
 <div align="center">
-  <sub>Hardik Prajapati • <a href="mailto:contact@hardikprajapati.co.in">contact@hardikprajapati.co.in</a> • <a href="https://github.com/HardikDev1210">GitHub</a></sub>
+  <sub>Hardik Prajapati • <a href="https://hardikprajapati.co.in">hardikprajapati.co.in</a> • <a href="mailto:contact@hardikprajapati.co.in">Email</a> • <a href="https://github.com/HardikDev1210">GitHub</a></sub>
 </div>
